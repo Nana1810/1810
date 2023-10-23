@@ -1,2 +1,2 @@
-name : noon
-Age : noon
+name : divi
+Age : 21
